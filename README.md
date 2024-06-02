@@ -1,10 +1,6 @@
 # Quize-Applicarion-
 
-Sure, here's a suitable description for your GitHub repository:
-
----
-
-## CLI Quiz Application
+## CLI Quiz Application 
 
 A Command Line Interface (CLI) Quiz application developed using C++. This application includes a comprehensive user registration system with validation for names, roll numbers, and email addresses. User data and quiz results are efficiently managed through file handling. The quiz features multiple-choice questions with accurate scoring and immediate feedback. The application is designed for a user-friendly experience, with clear prompts and robust error handling.
 
